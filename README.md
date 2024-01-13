@@ -1,4 +1,7 @@
- <h1 align="center"> Starboy Bot </h1> 
+ <h1 align="center"><b>ʜɪ ɪᴍ ꜱʜʏᴀᴍ</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I+am+Shyam+18+Years+school+Boy;++;Self-taught+Front-End+Developer,;12th+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <p align="center"> Introducing Starboy_Bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
