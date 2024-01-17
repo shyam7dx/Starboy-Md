@@ -14,9 +14,9 @@ global.mongodb= process.env.MONGODB_URI || ""
 global.DATABASE_URI=process.env.DATABASE_URL
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
-global.scan = "https://suhail-md-g1y0.onrender.com/";
+global.scan = "https://shyam-md-g1y0.onrender.com/";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Kolkata";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/Shyam7dx/Starboy-Md";
 global.gurl = process.env.GURL  || "wa.me/13304089487";
 global.website =process.env.GURL|| "wa.me/13304089487" ; 
 global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/d663ffba5dacc88d02537.jpg" ; // SET LOGO FOR IMAGE 
@@ -29,7 +29,7 @@ global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Starboy-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
   style:process.env.STYLE|| "1",  // put '1' & "2" here to check bot styles
 
 
@@ -72,7 +72,7 @@ readmessage:process.env.READ_MESSAGE|| "false",
 
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SUHAIL",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SHYAM",
 
 };
 
