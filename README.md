@@ -106,7 +106,7 @@ mongodb+srv://Shyam:Starboy-Bot@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w
 
 
 ### Thanks To
-Suhail 
+Shyam
 
 
 The Starboy_Bot is made available under the [GPL-3 license](https://github.com/shyambot/Starboy-Bot/blob/main/LICENCE).
